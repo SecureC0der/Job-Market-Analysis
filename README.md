@@ -40,10 +40,7 @@ Follow these steps to use this project:
 ## 📊 Insights & Visualizations  
 
 ### 💰 Data Analyst Salary Insights  
-[![Data Analyst Salary Insights]([figures/data_analyst_salary.png](https://github.com/SecureC0der/Job-Market-Analysis/blob/730639af86536a95ee509ff30771819e80035156/Figures/Top%20%25%20Skills%20for%20Data%20Analyst%20Roles.png
-
-))  ](https://github.com/SecureC0der/Job-Market-Analysis/blob/730639af86536a95ee509ff30771819e80035156/Figures/Top%20%25%20Skills%20for%20Data%20Analyst%20Roles.png
-)
+![image_alt](https://github.com/SecureC0der/Job-Market-Analysis/blob/730639af86536a95ee509ff30771819e80035156/Figures/Top%20%25%20Skills%20for%20Data%20Analyst%20Roles.png)
 
 ### 📈 In-Demand Skills  
 ![In-Demand Skills]([figures/in_demand_skills.png](https://github.com/SecureC0der/Job-Market-Analysis/blob/730639af86536a95ee509ff30771819e80035156/Figures/Top%2010%20Highest%20Remote%20Jobs%20For%20Data%20Analyst.png))  
